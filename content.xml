@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202606112306464M57B3</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202606112306468SL20K</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.1</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>El Zoo del Futuro: Proyecto de Conservación y Clasificación de Vertebrados.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de Aprendizaje - 1º ESO (Biología y Geología)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Esperanza Lara Lendínez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>En esta SdA, el alumnado asume el rol de un equipo de especialistas en zoología encargados de diseñar un &quot;Zoo Virtual Ético&quot; para identificar, clasificar y proponer medidas de protección de vertebrados en peligro de extinción.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1781254281357</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mqaotq5r-h6nu1you2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>BIENVENIDA AL ZOO DEL FUTURO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>BIENVENIDA AL ZOO DEL FUTURO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaov1xz-mmnbp18fe</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaov1xz-mmnbp18fe</odePageId>
+      <odeBlockId>block-mqapaosi-cy529cgai</odeBlockId>
+      <blockName>Relación de Tareas y Criterios LOMLOE</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaov1xz-mmnbp18fe</odePageId>
+          <odeBlockId>block-mqapaosi-cy529cgai</odeBlockId>
+          <odeIdeviceId>idevice-1781255101697-lei18vtny</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table style="width: 100%; border-collapse: collapse; border: 1px solid #bcbcbc;">
+<thead>
+<tr style="background-color: #003366; color: white;">
+<th style="padding: 10px; border: 1px solid #bcbcbc; text-align: left;">Sesión / Fase</th>
+<th style="padding: 10px; border: 1px solid #bcbcbc; text-align: left;">Tarea Principal del Alumnado</th>
+<th style="padding: 10px; border: 1px solid #bcbcbc; text-align: left;">Criterio de Evaluación (Andalucía)</th>
+<th style="padding: 10px; border: 1px solid #bcbcbc; text-align: left;">Instrumento de Evaluación</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding: 10px; border: 1px solid #bcbcbc;"><strong>Sesión 1: Nuestro Reto</strong></td>
+<td style="padding: 10px; border: 1px solid #bcbcbc;">Formación de equipos cooperativos, reparto de funciones y diseño del Glosario Visual bilingüe en Padlet.</td>
+<td style="padding: 10px; border: 1px solid #bcbcbc;"><strong>Crit. 3.3:</strong> Cooperar y trabajar en equipo desempeñando diferentes roles con responsabilidad y respeto.</td>
+<td style="padding: 10px; border: 1px solid #bcbcbc;">Registro de Observación Diaria (Escala de Estimación).</td>
+</tr>
+<tr style="background-color: #f9f9f9;">
+<td style="padding: 10px; border: 1px solid #bcbcbc;"><strong>Sesión 2: Laboratorio</strong></td>
+<td style="padding: 10px; border: 1px solid #bcbcbc;">Investigación anatómica mediante modelos 3D en Sketchfab y uso de claves dicotómicas digitales para clasificar vertebrados.</td>
+<td style="padding: 10px; border: 1px solid #bcbcbc;"><strong>Crit. 1.1:</strong> Seleccionar información.<br /><strong>Crit. 4.1:</strong> Explicar procesos utilizando recursos digitales.</td>
+<td style="padding: 10px; border: 1px solid #bcbcbc;">Registro de Observación Diaria.</td>
+</tr>
+<tr>
+<td style="padding: 10px; border: 1px solid #bcbcbc;"><strong>Sesión 3: Supervivientes</strong></td>
+<td style="padding: 10px; border: 1px solid #bcbcbc;">Análisis de funciones vitales y resolución del Reto Gamificado de adaptaciones en hábitats extremos de forma grupal.</td>
+<td style="padding: 10px; border: 1px solid #bcbcbc;"><strong>Crit. 4.1:</strong> Explicar procesos biológicos con propiedad científica utilizando modelos.</td>
+<td style="padding: 10px; border: 1px solid #bcbcbc;">Registro de Observación Diaria.</td>
+</tr>
+<tr style="background-color: #f9f9f9;">
+<td style="padding: 10px; border: 1px solid #bcbcbc;"><strong>Sesión 4: Biodiversidad</strong></td>
+<td style="padding: 10px; border: 1px solid #bcbcbc;">Taller de curación de contenidos investigando especies protegidas locales en portales oficiales (Junta de Andalucía, UICN).</td>
+<td style="padding: 10px; border: 1px solid #bcbcbc;"><strong>Crit. 5.1:</strong> Analizar los efectos de las acciones humanas y promover hábitos sostenibles en el entorno andaluz.</td>
+<td style="padding: 10px; border: 1px solid #bcbcbc;">Registro de Observación Diaria (Filtrado de datos).</td>
+</tr>
+<tr>
+<td style="padding: 10px; border: 1px solid #bcbcbc;"><strong>Sesión 5: Factoría</strong></td>
+<td style="padding: 10px; border: 1px solid #bcbcbc;">Diseño interactivo en Canva de la Ficha Técnica, incluyendo mapa de amenazas y el eslogan ecologista bilingüe (AICLE).</td>
+<td style="padding: 10px; border: 1px solid #bcbcbc;"><strong>Crit. 4.1:</strong> Creación de recursos digitales.<br /><strong>Crit. 1.2:</strong> Comunicar conclusiones en más de una lengua (10% Inglés).</td>
+<td style="padding: 10px; border: 1px solid #bcbcbc;">Rúbrica Analítica Final (Diseño, rigor e inglés).</td>
+</tr>
+<tr style="background-color: #f9f9f9;">
+<td style="padding: 10px; border: 1px solid #bcbcbc;"><strong>Sesión 6: Marketplace</strong></td>
+<td style="padding: 10px; border: 1px solid #bcbcbc;">Exposición pública interactiva mediante códigos QR (Visual Marketplace) y cumplimentación de la diana de coevaluación.</td>
+<td style="padding: 10px; border: 1px solid #bcbcbc;"><strong>Crit. 1.2:</strong> Exposición oral y argumentación.<br /><strong>Crit. 3.3:</strong> Coevaluación del desempeño del equipo.</td>
+<td style="padding: 10px; border: 1px solid #bcbcbc;">Rúbrica Analítica (Dimensión oral) y Diana Cooperativa.</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781255101697-lei18vtny","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table style=\"width: 100%; border-collapse: collapse; border: 1px solid #bcbcbc;\">\n<thead>\n<tr style=\"background-color: #003366; color: white;\">\n<th style=\"padding: 10px; border: 1px solid #bcbcbc; text-align: left;\">Sesión / Fase</th>\n<th style=\"padding: 10px; border: 1px solid #bcbcbc; text-align: left;\">Tarea Principal del Alumnado</th>\n<th style=\"padding: 10px; border: 1px solid #bcbcbc; text-align: left;\">Criterio de Evaluación (Andalucía)</th>\n<th style=\"padding: 10px; border: 1px solid #bcbcbc; text-align: left;\">Instrumento de Evaluación</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\"><strong>Sesión 1: Nuestro Reto</strong></td>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\">Formación de equipos cooperativos, reparto de funciones y diseño del Glosario Visual bilingüe en Padlet.</td>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\"><strong>Crit. 3.3:</strong> Cooperar y trabajar en equipo desempeñando diferentes roles con responsabilidad y respeto.</td>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\">Registro de Observación Diaria (Escala de Estimación).</td>\n</tr>\n<tr style=\"background-color: #f9f9f9;\">\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\"><strong>Sesión 2: Laboratorio</strong></td>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\">Investigación anatómica mediante modelos 3D en Sketchfab y uso de claves dicotómicas digitales para clasificar vertebrados.</td>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\"><strong>Crit. 1.1:</strong> Seleccionar información.<br /><strong>Crit. 4.1:</strong> Explicar procesos utilizando recursos digitales.</td>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\">Registro de Observación Diaria.</td>\n</tr>\n<tr>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\"><strong>Sesión 3: Supervivientes</strong></td>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\">Análisis de funciones vitales y resolución del Reto Gamificado de adaptaciones en hábitats extremos de forma grupal.</td>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\"><strong>Crit. 4.1:</strong> Explicar procesos biológicos con propiedad científica utilizando modelos.</td>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\">Registro de Observación Diaria.</td>\n</tr>\n<tr style=\"background-color: #f9f9f9;\">\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\"><strong>Sesión 4: Biodiversidad</strong></td>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\">Taller de curación de contenidos investigando especies protegidas locales en portales oficiales (Junta de Andalucía, UICN).</td>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\"><strong>Crit. 5.1:</strong> Analizar los efectos de las acciones humanas y promover hábitos sostenibles en el entorno andaluz.</td>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\">Registro de Observación Diaria (Filtrado de datos).</td>\n</tr>\n<tr>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\"><strong>Sesión 5: Factoría</strong></td>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\">Diseño interactivo en Canva de la Ficha Técnica, incluyendo mapa de amenazas y el eslogan ecologista bilingüe (AICLE).</td>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\"><strong>Crit. 4.1:</strong> Creación de recursos digitales.<br /><strong>Crit. 1.2:</strong> Comunicar conclusiones en más de una lengua (10% Inglés).</td>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\">Rúbrica Analítica Final (Diseño, rigor e inglés).</td>\n</tr>\n<tr style=\"background-color: #f9f9f9;\">\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\"><strong>Sesión 6: Marketplace</strong></td>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\">Exposición pública interactiva mediante códigos QR (Visual Marketplace) y cumplimentación de la diana de coevaluación.</td>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\"><strong>Crit. 1.2:</strong> Exposición oral y argumentación.<br /><strong>Crit. 3.3:</strong> Coevaluación del desempeño del equipo.</td>\n<td style=\"padding: 10px; border: 1px solid #bcbcbc;\">Rúbrica Analítica (Dimensión oral) y Diana Cooperativa.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9xjhdh-yyshfb5lx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 1: NUESTRO RETO</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 1: NUESTRO RETO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 1: NUESTRO RETO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SESIÓN 1: NUESTRO RETO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9xjhdh-yyshfb5lx</odePageId>
+      <odeBlockId>block-mq9xnok9-c8cs8nv57</odeBlockId>
+      <blockName>Fase de activación y Roles cooperativos</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9xjhdh-yyshfb5lx</odePageId>
+          <odeBlockId>block-mq9xnok9-c8cs8nv57</odeBlockId>
+          <odeIdeviceId>idevice-1781208678676-ev8saw2uh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p></p>
+<p>¡Hola, equipo! En esta nueva Situación de Aprendizaje os vais a convertir en auténticos especialistas en zoología. Vuestra misión crítica será diseñar un "Zoo Virtual Ético" en Canva para concienciar sobre la biodiversidad de nuestro planeta y la necesidad de proteger nuestro entorno más cercano.</p>
+<p>A lo largo de las próximas 6 sesiones, trabajaréis en equipos cooperativos para investigar, clasificar y proponer medidas de conservación del reino animal.</p>
+<p>Paso 1: Formación de equipos y firmas Organizad vuestro grupo cooperativo (4-5 alumnos/as). Debéis realizar el reparto de funciones y rellenar vuestro contrato de equipo digital. Los roles obligatorios son:</p>
+<ul>
+<li>Coordinador/a: Dirige el trabajo y controla el tiempo.</li>
+<li>Secretario/a: Toma nota de los acuerdos y custodia los documentos.</li>
+<li>Responsable Digital: Lidera el uso de los dispositivos y las herramientas TIC.</li>
+<li>Portavoz: Competencia comunicativa, dudas al docente y exposición.</li>
+</ul>
+<p>Paso 2: Lluvia de ideas y Glosario Visual (10% Inglés) Abrid el enlace al Padlet o Mentimeter compartido en nuestra Aula Virtual. Realizad una lluvia de ideas grupal sobre qué rasgos definen a un vertebrado frente a otros animales y qué significa que un zoo sea "ético".</p>
+<p>Reto lingüístico: Vuestro glosario debe incluir al menos los 5 grupos de vertebrados en lengua extranjera: Mammals, Birds, Reptiles, Amphibians, Fish.</p>
+<p><iframe width="100%" height="600" style="border: none; border-radius: 4px;" src="https://padlet.com/elarlen404/zoo-interactivo-5un825dx1e227eid" allow="camera;microphone;geolocation"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781208678676-ev8saw2uh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p></p>\n<p>¡Hola, equipo! En esta nueva Situación de Aprendizaje os vais a convertir en auténticos especialistas en zoología. Vuestra misión crítica será diseñar un \"Zoo Virtual Ético\" en Canva para concienciar sobre la biodiversidad de nuestro planeta y la necesidad de proteger nuestro entorno más cercano.</p>\n<p>A lo largo de las próximas 6 sesiones, trabajaréis en equipos cooperativos para investigar, clasificar y proponer medidas de conservación del reino animal.</p>\n<p>Paso 1: Formación de equipos y firmas Organizad vuestro grupo cooperativo (4-5 alumnos/as). Debéis realizar el reparto de funciones y rellenar vuestro contrato de equipo digital. Los roles obligatorios son:</p>\n<ul>\n<li>Coordinador/a: Dirige el trabajo y controla el tiempo.</li>\n<li>Secretario/a: Toma nota de los acuerdos y custodia los documentos.</li>\n<li>Responsable Digital: Lidera el uso de los dispositivos y las herramientas TIC.</li>\n<li>Portavoz: Competencia comunicativa, dudas al docente y exposición.</li>\n</ul>\n<p>Paso 2: Lluvia de ideas y Glosario Visual (10% Inglés) Abrid el enlace al Padlet o Mentimeter compartido en nuestra Aula Virtual. Realizad una lluvia de ideas grupal sobre qué rasgos definen a un vertebrado frente a otros animales y qué significa que un zoo sea \"ético\".</p>\n<p>Reto lingüístico: Vuestro glosario debe incluir al menos los 5 grupos de vertebrados en lengua extranjera: Mammals, Birds, Reptiles, Amphibians, Fish.</p>\n<p><iframe width=\"100%\" height=\"600\" style=\"border: none; border-radius: 4px;\" src=\"https://padlet.com/elarlen404/zoo-interactivo-5un825dx1e227eid\" allow=\"camera;microphone;geolocation\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9xjn5z-doylwjfi2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 2: LABORATORIO DE TAXONOMÍA</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 2: LABORATORIO DE TAXONOMÍA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 2: LABORATORIO DE TAXONOMÍA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SESIÓN 2: LABORATORIO DE TAXONOMÍA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9xjn5z-doylwjfi2</odePageId>
+      <odeBlockId>block-mq9y5ra5-329kfblqc</odeBlockId>
+      <blockName>El Árbol de los Vertebrados y Claves Dicotómicas</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9xjn5z-doylwjfi2</odePageId>
+          <odeBlockId>block-mq9y5ra5-329kfblqc</odeBlockId>
+          <odeIdeviceId>idevice-1781209522011-363rqpndh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para clasificar a los animales vertebrados, los científicos nos fijamos en la presencia de un esqueleto interno con columna vertebral y en sus rasgos anatómicos externos. El tipo de cubierta dérmica (pelo en mamíferos, plumas en aves, escamas en reptiles y peces, o piel desnuda en anfibios) nos da la pista definitiva sobre su historia evolutiva. Una herramienta fundamental para identificar especies desconocidas es la clave dicotómica, que nos va guiando a través de dilemas emparejados (ej. ¿Tiene patas o no tiene patas?).</p>
+<p>🔬 Instrucciones del laboratorio virtual: Por parejas, vais a convertiros en investigadores de laboratorio. Utilizad vuestros dispositivos para explorar los modelos anatómicos en 3D de la plataforma Sketchfab. Observad detenidamente la disposición ósea y la dentición de los ejemplares mostrados. A continuación, aplicad la clave dicotómica digital que tenéis en el aula virtual para descubrir la clase exacta a la que pertenecen los animales misteriosos y rellenad vuestra ficha de laboratorio.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781209522011-363rqpndh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para clasificar a los animales vertebrados, los científicos nos fijamos en la presencia de un esqueleto interno con columna vertebral y en sus rasgos anatómicos externos. El tipo de cubierta dérmica (pelo en mamíferos, plumas en aves, escamas en reptiles y peces, o piel desnuda en anfibios) nos da la pista definitiva sobre su historia evolutiva. Una herramienta fundamental para identificar especies desconocidas es la clave dicotómica, que nos va guiando a través de dilemas emparejados (ej. ¿Tiene patas o no tiene patas?).</p>\n<p>🔬 Instrucciones del laboratorio virtual: Por parejas, vais a convertiros en investigadores de laboratorio. Utilizad vuestros dispositivos para explorar los modelos anatómicos en 3D de la plataforma Sketchfab. Observad detenidamente la disposición ósea y la dentición de los ejemplares mostrados. A continuación, aplicad la clave dicotómica digital que tenéis en el aula virtual para descubrir la clase exacta a la que pertenecen los animales misteriosos y rellenad vuestra ficha de laboratorio.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9xjs03-7uaf9so03</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 3: SUPERVIVIENTES DEL MEDIO</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 3: SUPERVIVIENTES DEL MEDIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 3: SUPERVIVIENTES DEL MEDIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SESIÓN 3: SUPERVIVIENTES DEL MEDIO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9xjs03-7uaf9so03</odePageId>
+      <odeBlockId>block-mq9y7wz5-esdskrt9b</odeBlockId>
+      <blockName>Las Funciones Vitales en Acción</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9xjs03-7uaf9so03</odePageId>
+          <odeBlockId>block-mq9y7wz5-esdskrt9b</odeBlockId>
+          <odeIdeviceId>idevice-1781209622702-bwsjlfgor</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Los vertebrados han colonizado todos los ecosistemas del planeta gracias a espectaculares adaptaciones anatómicas y fisiológicas ligadas a sus tres funciones vitales:</p>
+<ul>
+<li>Nutrición: Compuesta por la digestión (denticiones especializadas: incisivos para roedores, caninos para carnívoros, molares planos para herbívoros) y la respiración (branquial para el medio acuático y pulmonar para el medio terrestre).</li>
+<li>Relación: El desarrollo del sistema nervioso y de las extremidades (aletas, alas, patas) les permite interactuar de forma precisa con su entorno.</li>
+<li>Reproducción: Estrategias adaptadas para asegurar la descendencia, diferenciando animales ovíparos (desarrollo en huevo, como aves y reptiles) y vivíparos (desarrollo en el útero materno, como la mayoría de mamíferos).</li>
+</ul>
+<p>🎮 <strong>El Juego de las Adaptaciones Extremas</strong></p>
+<p>Vuestro equipo cooperativo recibirá las condiciones de un hábitat extremo (como un desierto o la alta montaña). Debéis debatir y diseñar de forma lógica las características anatómicas y fisiológicas que necesitaría vuestro vertebrado imaginario para sobrevivir allí basándoos en los conceptos que acabamos de estudiar. ¡Que comience el juego!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781209622702-bwsjlfgor","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los vertebrados han colonizado todos los ecosistemas del planeta gracias a espectaculares adaptaciones anatómicas y fisiológicas ligadas a sus tres funciones vitales:</p>\n<ul>\n<li>Nutrición: Compuesta por la digestión (denticiones especializadas: incisivos para roedores, caninos para carnívoros, molares planos para herbívoros) y la respiración (branquial para el medio acuático y pulmonar para el medio terrestre).</li>\n<li>Relación: El desarrollo del sistema nervioso y de las extremidades (aletas, alas, patas) les permite interactuar de forma precisa con su entorno.</li>\n<li>Reproducción: Estrategias adaptadas para asegurar la descendencia, diferenciando animales ovíparos (desarrollo en huevo, como aves y reptiles) y vivíparos (desarrollo en el útero materno, como la mayoría de mamíferos).</li>\n</ul>\n<p>🎮 <strong>El Juego de las Adaptaciones Extremas</strong></p>\n<p>Vuestro equipo cooperativo recibirá las condiciones de un hábitat extremo (como un desierto o la alta montaña). Debéis debatir y diseñar de forma lógica las características anatómicas y fisiológicas que necesitaría vuestro vertebrado imaginario para sobrevivir allí basándoos en los conceptos que acabamos de estudiar. ¡Que comience el juego!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9xjwhu-vxzcbsdyq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 4: BIODIVERSIDAD ANDALUZA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 4: BIODIVERSIDAD ANDALUZA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 4: BIODIVERSIDAD ANDALUZA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SESIÓN 4: BIODIVERSIDAD ANDALUZA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9xjwhu-vxzcbsdyq</odePageId>
+      <odeBlockId>block-mq9yaltn-sevl1tpck</odeBlockId>
+      <blockName>Taller de Curación de Contenidos: Especies Amenazadas</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9xjwhu-vxzcbsdyq</odePageId>
+          <odeBlockId>block-mq9yaltn-sevl1tpck</odeBlockId>
+          <odeIdeviceId>idevice-1781209748217-dfvkkjlvj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para diseñar nuestro "Zoo Virtual Ético", cada equipo de zoólogos debe apadrinar y rescatar a una especie real. Con el fin de adquirir un firme compromiso con la conservación de nuestro entorno más cercano, vuestro animal protagonista debe ser un vertebrado amenazado de Andalucía.</p>
+<p>🐾 Opciones preferentes para la investigación de vuestro equipo:</p>
+<ul>
+<li>El Lince Ibérico (Lynx pardinus)</li>
+<li>El Águila Imperial Ibérica (Aquila adalberti)</li>
+<li>El Camaleón Común (Chamaeleo chamaeleon)</li>
+<li>El Esturión del Guadalquivir (Acipenser sturio)</li>
+</ul>
+<p>🔍 Instrucciones de búsqueda y validación científica: No utilicéis cualquier blog de internet. Como científicos, debéis recurrir a fuentes oficiales de máxima fiabilidad. Utilizad los buscadores especializados e investigad en los portales que os dejamos abajo. El secretario del grupo se encargará de guardar los enlaces válidos seleccionados y los datos clave en la carpeta compartida de Google Drive de vuestro equipo.</p>
+<p>🌐 Fuentes de referencia recomendadas:</p>
+<ol>
+<li>Lista Roja de la UICN: (Base de datos mundial sobre el estado de amenaza de las especies).</li>
+<li>WWF España - Campañas de Especies: (Información didáctica sobre proyectos de conservación).</li>
+<li>Portal de la Biodiversidad de la Junta de Andalucía: (Planes oficiales de recuperación de especies andaluzas).</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781209748217-dfvkkjlvj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para diseñar nuestro \"Zoo Virtual Ético\", cada equipo de zoólogos debe apadrinar y rescatar a una especie real. Con el fin de adquirir un firme compromiso con la conservación de nuestro entorno más cercano, vuestro animal protagonista debe ser un vertebrado amenazado de Andalucía.</p>\n<p>🐾 Opciones preferentes para la investigación de vuestro equipo:</p>\n<ul>\n<li>El Lince Ibérico (Lynx pardinus)</li>\n<li>El Águila Imperial Ibérica (Aquila adalberti)</li>\n<li>El Camaleón Común (Chamaeleo chamaeleon)</li>\n<li>El Esturión del Guadalquivir (Acipenser sturio)</li>\n</ul>\n<p>🔍 Instrucciones de búsqueda y validación científica: No utilicéis cualquier blog de internet. Como científicos, debéis recurrir a fuentes oficiales de máxima fiabilidad. Utilizad los buscadores especializados e investigad en los portales que os dejamos abajo. El secretario del grupo se encargará de guardar los enlaces válidos seleccionados y los datos clave en la carpeta compartida de Google Drive de vuestro equipo.</p>\n<p>🌐 Fuentes de referencia recomendadas:</p>\n<ol>\n<li>Lista Roja de la UICN: (Base de datos mundial sobre el estado de amenaza de las especies).</li>\n<li>WWF España - Campañas de Especies: (Información didáctica sobre proyectos de conservación).</li>\n<li>Portal de la Biodiversidad de la Junta de Andalucía: (Planes oficiales de recuperación de especies andaluzas).</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9xk0zi-dwuizmsc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 5: FACTORÍA DIGITAL EN CANVA</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 5: FACTORÍA DIGITAL EN CANVA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 5: FACTORÍA DIGITAL EN CANVA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SESIÓN 5: FACTORÍA DIGITAL EN CANVA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9xk0zi-dwuizmsc</odePageId>
+      <odeBlockId>block-mq9yej5v-5lcvjrr37</odeBlockId>
+      <blockName>Creación de la Ficha Técnica Interactiva</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9xk0zi-dwuizmsc</odePageId>
+          <odeBlockId>block-mq9yej5v-5lcvjrr37</odeBlockId>
+          <odeIdeviceId>idevice-1781209931393-iay9okhds</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Llegó la hora de diseñar! El Responsable Digital de vuestro equipo de zoólogos creará un lienzo en Canva (Educación) y compartirá el enlace de edición en tiempo real con el resto de compañeros. Vuestra ficha técnica final debe incluir obligatoriamente los siguientes apartados científicos:</p>
+<ol>
+<li>Identificación Científica: Nombre común destacado y nombre científico de la especie redactado correctamente en cursiva (ej. Lynx pardinus).</li>
+<li>Justificación Taxonómica: Explicación clara del grupo de vertebrados al que pertenece, argumentando detalladamente sus rasgos óseos y su cubierta dérmica (pelo, plumas, escamas o piel desnuda).</li>
+<li>Análisis Fisiológico: Resumen visual de sus tres funciones vitales y adaptaciones específicas al hábitat (tipo de dieta/dentición, respiración y reproducción).</li>
+<li>Conservación Andaluza: Exposición de los impactos humanos que sufre la especie dentro de nuestra comunidad autónoma y propuesta razonada de dos medidas concretas para su protección.</li>
+<li>Lema CLIL (10% Inglés): Un botón interactivo o recuadro visible en vuestro lienzo con un eslogan ecologista redactado íntegramente en inglés (ej. "Save the Iberian Lynx: respect its territory"). Podéis consultar términos técnicos en WordReference o DeepL.</li>
+</ol>
+<p>💡 Trucos de Zoólogo Digital en Canva:</p>
+<ul>
+<li>Búsqueda de elementos: En la pestaña 'Elementos', buscad palabras clave en inglés para encontrar iconos profesionales: vertebrates, biology, ecology, animal icons.</li>
+<li>Interactividad real: Podéis seleccionar cualquier imagen o texto en Canva, pulsar en los tres puntos ..., seleccionar "Enlace" e incrustar el link al modelo 3D de Sketchfab o al vídeo de vuestro animal. ¡Haced que vuestra ficha cobre vida al pulsar sobre ella!</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781209931393-iay9okhds","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Llegó la hora de diseñar! El Responsable Digital de vuestro equipo de zoólogos creará un lienzo en Canva (Educación) y compartirá el enlace de edición en tiempo real con el resto de compañeros. Vuestra ficha técnica final debe incluir obligatoriamente los siguientes apartados científicos:</p>\n<ol>\n<li>Identificación Científica: Nombre común destacado y nombre científico de la especie redactado correctamente en cursiva (ej. Lynx pardinus).</li>\n<li>Justificación Taxonómica: Explicación clara del grupo de vertebrados al que pertenece, argumentando detalladamente sus rasgos óseos y su cubierta dérmica (pelo, plumas, escamas o piel desnuda).</li>\n<li>Análisis Fisiológico: Resumen visual de sus tres funciones vitales y adaptaciones específicas al hábitat (tipo de dieta/dentición, respiración y reproducción).</li>\n<li>Conservación Andaluza: Exposición de los impactos humanos que sufre la especie dentro de nuestra comunidad autónoma y propuesta razonada de dos medidas concretas para su protección.</li>\n<li>Lema CLIL (10% Inglés): Un botón interactivo o recuadro visible en vuestro lienzo con un eslogan ecologista redactado íntegramente en inglés (ej. \"Save the Iberian Lynx: respect its territory\"). Podéis consultar términos técnicos en WordReference o DeepL.</li>\n</ol>\n<p>💡 Trucos de Zoólogo Digital en Canva:</p>\n<ul>\n<li>Búsqueda de elementos: En la pestaña 'Elementos', buscad palabras clave en inglés para encontrar iconos profesionales: vertebrates, biology, ecology, animal icons.</li>\n<li>Interactividad real: Podéis seleccionar cualquier imagen o texto en Canva, pulsar en los tres puntos ..., seleccionar \"Enlace\" e incrustar el link al modelo 3D de Sketchfab o al vídeo de vuestro animal. ¡Haced que vuestra ficha cobre vida al pulsar sobre ella!</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq9xk5fn-nijdw8y5s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 6: GRAN APERTURA DEL ZOO VIRTUAL</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 6: GRAN APERTURA DEL ZOO VIRTUAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 6: GRAN APERTURA DEL ZOO VIRTUAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SESIÓN 6: GRAN APERTURA DEL ZOO VIRTUAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq9xk5fn-nijdw8y5s</odePageId>
+      <odeBlockId>block-mq9yixab-jjgy6ibx7</odeBlockId>
+      <blockName>Difusión en el Visual Marketplace y Evaluación</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9xk5fn-nijdw8y5s</odePageId>
+          <odeBlockId>block-mq9yixab-jjgy6ibx7</odeBlockId>
+          <odeIdeviceId>idevice-1781210136320-r1khqg7gb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Ha llegado el gran día! Vuestras Fichas Técnicas Interactivas creadas en Canva van a formar parte de la inauguración oficial de nuestro "Zoo Virtual Ético". Para compartir vuestros hallazgos científicos con el resto de la clase, utilizaremos la dinámica del Marketplace:</p>
+<ul>
+<li>Preparación: El Responsable Digital de cada equipo debe descargar la ficha de Canva en formato PDF Estándar (para mantener activos los enlaces multimedia) y generar un Código QR con el enlace público de visualización. Colocad el código QR de vuestro animal bien visible en vuestra mesa del aula.</li>
+<li>Turno A (45 minutos): Dos miembros de cada grupo se quedarán en su puesto ejerciendo como "guías científicos del zoo", encargándose de explicar las adaptaciones y las medidas de protección del animal a quienes los visiten. Los otros dos miembros del equipo serán los "visitantes", escaneando los QR de las demás mesas con sus dispositivos para aprender sobre otras especies andaluzas en peligro.</li>
+<li>Turno B (45 minutos): Intercambiaremos los roles por completo. ¡Todos los miembros del equipo expondrán y visitarán!</li>
+</ul>
+<p>🎯 Tu Autoevaluación y Coevaluación del Trabajo en Equipo De forma individual, haced clic en el enlace de Google Forms / CoRubric de nuestra Aula Virtual para rellenar vuestra Diana de Evaluación Cooperativa. Deberéis puntuaros a vosotros mismos y a vuestros compañeros del 1 al 4 en base a estos cuatro ejes:</p>
+<ol>
+<li>Gestión del Rol: Cumplimiento diario de las obligaciones del rol elegido.</li>
+<li>Éxito del Grupo: Aportación de ideas de valor y datos científicos de fuentes fiables.</li>
+<li>Clima de Trabajo: Escucha activa, respeto y resolución de conflictos mediante el diálogo.</li>
+<li>Puntualidad: Entrega de las micro-tareas individuales a tiempo para no retrasar la maquetación.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781210136320-r1khqg7gb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Ha llegado el gran día! Vuestras Fichas Técnicas Interactivas creadas en Canva van a formar parte de la inauguración oficial de nuestro \"Zoo Virtual Ético\". Para compartir vuestros hallazgos científicos con el resto de la clase, utilizaremos la dinámica del Marketplace:</p>\n<ul>\n<li>Preparación: El Responsable Digital de cada equipo debe descargar la ficha de Canva en formato PDF Estándar (para mantener activos los enlaces multimedia) y generar un Código QR con el enlace público de visualización. Colocad el código QR de vuestro animal bien visible en vuestra mesa del aula.</li>\n<li>Turno A (45 minutos): Dos miembros de cada grupo se quedarán en su puesto ejerciendo como \"guías científicos del zoo\", encargándose de explicar las adaptaciones y las medidas de protección del animal a quienes los visiten. Los otros dos miembros del equipo serán los \"visitantes\", escaneando los QR de las demás mesas con sus dispositivos para aprender sobre otras especies andaluzas en peligro.</li>\n<li>Turno B (45 minutos): Intercambiaremos los roles por completo. ¡Todos los miembros del equipo expondrán y visitarán!</li>\n</ul>\n<p>🎯 Tu Autoevaluación y Coevaluación del Trabajo en Equipo De forma individual, haced clic en el enlace de Google Forms / CoRubric de nuestra Aula Virtual para rellenar vuestra Diana de Evaluación Cooperativa. Deberéis puntuaros a vosotros mismos y a vuestros compañeros del 1 al 4 en base a estos cuatro ejes:</p>\n<ol>\n<li>Gestión del Rol: Cumplimiento diario de las obligaciones del rol elegido.</li>\n<li>Éxito del Grupo: Aportación de ideas de valor y datos científicos de fuentes fiables.</li>\n<li>Clima de Trabajo: Escucha activa, respeto y resolución de conflictos mediante el diálogo.</li>\n<li>Puntualidad: Entrega de las micro-tareas individuales a tiempo para no retrasar la maquetación.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq9xk5fn-nijdw8y5s</odePageId>
+      <odeBlockId>block-mq9yn53x-gaa6pp7s2</odeBlockId>
+      <blockName>Rúbrica Oficial del Proyecto: El Zoo del Futuro.</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq9xk5fn-nijdw8y5s</odePageId>
+          <odeBlockId>block-mq9yn53x-gaa6pp7s2</odeBlockId>
+          <odeIdeviceId>idevice-1781210333083-3pt6ib8xp</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1781210333083-3pt6ib8xp%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Rigor%20Cient%EDfico%20y%20Taxonom%EDa%20%28Crit.%204.1%29%22%2C%22Conciencia%20Eco-Andaluza%20%28Crit.%205.1%29%22%2C%22Uso%20de%20Lengua%20Extranjera%20-%2010%25%20%28Crit.%201.2%29%22%5D%2C%22scores%22%3A%5B%22EXCELENTE%20%284%29%22%2C%22SATISFACTORIO%20%283%29%22%2C%22EN%20PROGRESO%20%282%29%22%2C%22INSUFICIENTE%20%281%29%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Clasifica%20al%20vertebrado%20de%20forma%20impecable.%20Justifica%20con%20precisi%F3n%20anat%F3mica%20sus%20funciones%20vitales%20y%20adaptaciones%20al%20medio.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Clasifica%20correctamente%20al%20animal.%20Identifica%20sus%20funciones%20vitales%20con%20claridad%20pero%20con%20alguna%20imprecisi%F3n%20te%F3rica%20menor.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Menciona%20el%20grupo%20del%20vertebrado%2C%20pero%20la%20descripci%F3n%20anat%F3mica%20o%20fisiol%F3gica%20de%20sus%20funciones%20es%20incompleta%20o%20confusa.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Comete%20errores%20graves%20en%20la%20clasificaci%F3n%20taxon%F3mica%20o%20no%20detalla%20las%20adaptaciones%20de%20la%20especie.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Analiza%20con%20brillantez%20las%20amenazas%20de%20la%20especie%20en%20Andaluc%EDa%20y%20propone%20un%20m%EDnimo%20de%202%20medidas%20de%20conservaci%F3n%20viables.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Identifica%20las%20principales%20amenazas%20del%20animal%20y%20propone%20medidas%20de%20conservaci%F3n%20coherentes%20con%20su%20entorno%20natural%20cercano.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Menciona%20que%20el%20animal%20est%E1%20en%20peligro%2C%20pero%20las%20amenazas%20o%20las%20soluciones%20est%E1n%20desconectadas%20de%20la%20realidad%20andaluza.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22No%20menciona%20el%20estado%20de%20conservaci%F3n%20ni%20propone%20ninguna%20medida%20para%20mitigar%20el%20impacto%20humano%20sobre%20la%20especie.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22El%20eslogan%20y%20la%20justificaci%F3n%20conservacionista%20en%20ingl%E9s%20no%20presentan%20errores%20y%20muestran%20un%20vocabulario%20cient%EDfico%20maduro.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Escribe%20el%20eslogan%20en%20ingl%E9s%20de%20forma%20totalmente%20comprensible%2C%20con%20fallos%20gramaticales%20menores%20que%20no%20afectan%20al%20mensaje.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22El%20apartado%20en%20ingl%E9s%20es%20excesivamente%20rudimentario%2C%20bas%E1ndose%20en%20traducciones%20de%20internet%20de%20forma%20literal.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22No%20incluye%20el%20apartado%20requerido%20en%20ingl%E9s%20o%20este%20resulta%20completamente%20incomprensible.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Rigor%20Cient%EDfico%20y%20Taxonom%EDa%20%28Crit.%204.1%29%22%2C%22Conciencia%20Eco-Andaluza%20%28Crit.%205.1%29%22%2C%22Uso%20de%20Lengua%20Extranjera%20-%2010%25%20%28Crit.%201.2%29%22%5D%2C%22scores%22%3A%5B%22EXCELENTE%20%284%29%22%2C%22SATISFACTORIO%20%283%29%22%2C%22EN%20PROGRESO%20%282%29%22%2C%22INSUFICIENTE%20%281%29%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Clasifica%20al%20vertebrado%20de%20forma%20impecable.%20Justifica%20con%20precisi%F3n%20anat%F3mica%20sus%20funciones%20vitales%20y%20adaptaciones%20al%20medio.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Clasifica%20correctamente%20al%20animal.%20Identifica%20sus%20funciones%20vitales%20con%20claridad%20pero%20con%20alguna%20imprecisi%F3n%20te%F3rica%20menor.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Menciona%20el%20grupo%20del%20vertebrado%2C%20pero%20la%20descripci%F3n%20anat%F3mica%20o%20fisiol%F3gica%20de%20sus%20funciones%20es%20incompleta%20o%20confusa.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Comete%20errores%20graves%20en%20la%20clasificaci%F3n%20taxon%F3mica%20o%20no%20detalla%20las%20adaptaciones%20de%20la%20especie.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22Analiza%20con%20brillantez%20las%20amenazas%20de%20la%20especie%20en%20Andaluc%EDa%20y%20propone%20un%20m%EDnimo%20de%202%20medidas%20de%20conservaci%F3n%20viables.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Identifica%20las%20principales%20amenazas%20del%20animal%20y%20propone%20medidas%20de%20conservaci%F3n%20coherentes%20con%20su%20entorno%20natural%20cercano.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Menciona%20que%20el%20animal%20est%E1%20en%20peligro%2C%20pero%20las%20amenazas%20o%20las%20soluciones%20est%E1n%20desconectadas%20de%20la%20realidad%20andaluza.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22No%20menciona%20el%20estado%20de%20conservaci%F3n%20ni%20propone%20ninguna%20medida%20para%20mitigar%20el%20impacto%20humano%20sobre%20la%20especie.%22%7D%5D%2C%5B%7B%22weight%22%3A%222.5%22%2C%22text%22%3A%22El%20eslogan%20y%20la%20justificaci%F3n%20conservacionista%20en%20ingl%E9s%20no%20presentan%20errores%20y%20muestran%20un%20vocabulario%20cient%EDfico%20maduro.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Escribe%20el%20eslogan%20en%20ingl%E9s%20de%20forma%20totalmente%20comprensible%2C%20con%20fallos%20gramaticales%20menores%20que%20no%20afectan%20al%20mensaje.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22El%20apartado%20en%20ingl%E9s%20es%20excesivamente%20rudimentario%2C%20bas%E1ndose%20en%20traducciones%20de%20internet%20de%20forma%20literal.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22No%20incluye%20el%20apartado%20requerido%20en%20ingl%E9s%20o%20este%20resulta%20completamente%20incomprensible.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaovshl-sw5azjc36</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PLAN DE EVALUACIÓN Y GESTIÓN DE VARIABLES</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PLAN DE EVALUACIÓN Y GESTIÓN DE VARIABLES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaovshl-sw5azjc36</odePageId>
+      <odeBlockId>block-mqapg9pu-c7hhuypww</odeBlockId>
+      <blockName>Estrategia Criterial, Contingencias y Feedback Formativo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaovshl-sw5azjc36</odePageId>
+          <odeBlockId>block-mqapg9pu-c7hhuypww</odeBlockId>
+          <odeIdeviceId>idevice-1781255362097-is1wr0rcx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>A. Obtención y Análisis de Datos (Evaluación Continua)</strong><br />En esta Situación de Aprendizaje, la evaluación se concibe como un proceso continuo y formativo orientado a la mejora del aprendizaje, alejándose de un modelo puramente punitivo o basado en un examen final:</p>
+<ul>
+<li>Registro de Observación Diaria: Los datos acumulados durante el trabajo de campo y las sesiones de laboratorio (Sesiones 2, 3 y 4) permiten detectar en tiempo real qué alumnos o equipos específicos presentan dificultades con la taxonomía o el manejo del software. Esto facilita que el docente preste apoyo directo de andamiaje (scaffolding) antes de pasar a la producción en Canva.</li>
+<li>Rúbrica Analítica Digitalizada: Las calificaciones obtenidas en la rúbrica de la ficha técnica se vuelcan en una hoja de cálculo para analizar las medias estadísticas por dimensiones. Si la media general del grupo-clase en la dimensión "Uso de Lengua Extranjera (Inglés)" se sitúa por debajo del nivel satisfactorio, el dato revela al docente la necesidad de reforzar las estructuras lingüísticas en futuras unidades CLIL.</li>
+<li>Coherencia Metacognitiva (Diana Cooperativa): Las puntuaciones de la diana se cruzan informáticamente. La coincidencia entre la autoevaluación del alumno y la coevaluación de su equipo demuestra madurez metacognitiva. Cualquier brecha severa (un alumno que se puntúa con un 4 mientras su equipo le asigna un 1) actúa como un indicador objetivo de conflicto o distorsión perceptiva, activando una tutoría individual de mediación.</li>
+</ul>
+<p><strong>B. Tratamiento de Variables Críticas (Plan de Contingencia)</strong><br />Para garantizar el principio de equidad y asegurar que imprevistos técnicos o logísticos no perjudiquen la evaluación del alumnado, se establecen los siguientes protocolos:</p>
+<ul>
+<li>Variable 1: Absentismo justificado el día del Visual Marketplace (Sesión 6): Dado que la rúbrica desglosa el proceso grupal de la defensa individual, el equipo no se verá penalizado y el rol de reserva asumirá la portavocía. El alumno ausente será evaluado del criterio de expresión oral (Crit. 1.2) mediante el envío asíncrono de una video-píldora explicativa de 2 minutos grabada en casa y subida a la plataforma Moodle Centros.</li>
+<li>Variable 2: Conflictos internos o inacción prolongada de un miembro del equipo: El contrato cooperativo firmado en la Sesión 1 faculta al coordinador para reportar incidencias. Si tras la mediación docente persiste la actitud apática, se aplicará la "cláusula de rescisión": el alumno perderá el derecho a la nota de la ficha del grupo y deberá realizar de forma individual, a mano y fuera del horario escolar, una ficha técnica completa sobre una especie andaluza diferente.</li>
+<li>Variable 3: Caída del Wi-Fi o bloqueo tecnológico del centro del aula: Se activará de inmediato el Plan B Analógico. El alumnado pasará a estructurar los textos y diseñar el boceto gráfico de la ficha técnica utilizando lápiz y papel. El docente evaluará dicho soporte analógico aplicando exactamente los mismos criterios científicos de la rúbrica (taxonomía y funciones vitales), posponiendo el volcado digital en Canva para el trabajo autónomo en casa o sesiones de refuerzo.</li>
+</ul>
+<p></p>
+<p><strong>C. Estrategia de Retroalimentación Formativa (Feedback)</strong><br />Para cumplir con el carácter orientador y formativo de la LOMLOE, los resultados del proyecto no se limitan a una calificación numérica. Al finalizar el Marketplace, el docente aplicará con cada equipo el modelo de la "Escalera de la Retroalimentación" de Daniel Wilson:</p>
+<ol>
+<li>Clarificar: El docente plantea preguntas abiertas para comprender el porqué de sus elecciones científicas ("¿Qué os llevó a deducir que este icono representaba la respiración branquial de vuestra especie?").</li>
+<li>Valorar: Se destacan de forma explícita los puntos fuertes y los logros del diseño ("La estructura visual en Canva es impecable y la integración del visor 3D de Sketchfab enriquece muchísimo el producto").</li>
+<li>Expresar Inquietudes: Se siembran dudas constructivas no punitivas para fomentar el pensamiento crítico ("Me preocupa que en el eslogan en inglés hayáis recurrido a una traducción literal de internet y la frase haya perdido el sentido de conservación, ¿cómo podríais reformularlo usando los verbos del glosario inicial?").</li>
+<li>Ofrecer Sugerencias: El docente marca pautas concretas, realistas y alcanzables de cara a futuros proyectos ("Para vuestra próxima producción digital, reducid la densidad del texto e introducid tablas comparativas para agilizar la lectura del usuario").</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781255362097-is1wr0rcx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>A. Obtención y Análisis de Datos (Evaluación Continua)</strong><br />En esta Situación de Aprendizaje, la evaluación se concibe como un proceso continuo y formativo orientado a la mejora del aprendizaje, alejándose de un modelo puramente punitivo o basado en un examen final:</p>\n<ul>\n<li>Registro de Observación Diaria: Los datos acumulados durante el trabajo de campo y las sesiones de laboratorio (Sesiones 2, 3 y 4) permiten detectar en tiempo real qué alumnos o equipos específicos presentan dificultades con la taxonomía o el manejo del software. Esto facilita que el docente preste apoyo directo de andamiaje (scaffolding) antes de pasar a la producción en Canva.</li>\n<li>Rúbrica Analítica Digitalizada: Las calificaciones obtenidas en la rúbrica de la ficha técnica se vuelcan en una hoja de cálculo para analizar las medias estadísticas por dimensiones. Si la media general del grupo-clase en la dimensión \"Uso de Lengua Extranjera (Inglés)\" se sitúa por debajo del nivel satisfactorio, el dato revela al docente la necesidad de reforzar las estructuras lingüísticas en futuras unidades CLIL.</li>\n<li>Coherencia Metacognitiva (Diana Cooperativa): Las puntuaciones de la diana se cruzan informáticamente. La coincidencia entre la autoevaluación del alumno y la coevaluación de su equipo demuestra madurez metacognitiva. Cualquier brecha severa (un alumno que se puntúa con un 4 mientras su equipo le asigna un 1) actúa como un indicador objetivo de conflicto o distorsión perceptiva, activando una tutoría individual de mediación.</li>\n</ul>\n<p><strong>B. Tratamiento de Variables Críticas (Plan de Contingencia)</strong><br />Para garantizar el principio de equidad y asegurar que imprevistos técnicos o logísticos no perjudiquen la evaluación del alumnado, se establecen los siguientes protocolos:</p>\n<ul>\n<li>Variable 1: Absentismo justificado el día del Visual Marketplace (Sesión 6): Dado que la rúbrica desglosa el proceso grupal de la defensa individual, el equipo no se verá penalizado y el rol de reserva asumirá la portavocía. El alumno ausente será evaluado del criterio de expresión oral (Crit. 1.2) mediante el envío asíncrono de una video-píldora explicativa de 2 minutos grabada en casa y subida a la plataforma Moodle Centros.</li>\n<li>Variable 2: Conflictos internos o inacción prolongada de un miembro del equipo: El contrato cooperativo firmado en la Sesión 1 faculta al coordinador para reportar incidencias. Si tras la mediación docente persiste la actitud apática, se aplicará la \"cláusula de rescisión\": el alumno perderá el derecho a la nota de la ficha del grupo y deberá realizar de forma individual, a mano y fuera del horario escolar, una ficha técnica completa sobre una especie andaluza diferente.</li>\n<li>Variable 3: Caída del Wi-Fi o bloqueo tecnológico del centro del aula: Se activará de inmediato el Plan B Analógico. El alumnado pasará a estructurar los textos y diseñar el boceto gráfico de la ficha técnica utilizando lápiz y papel. El docente evaluará dicho soporte analógico aplicando exactamente los mismos criterios científicos de la rúbrica (taxonomía y funciones vitales), posponiendo el volcado digital en Canva para el trabajo autónomo en casa o sesiones de refuerzo.</li>\n</ul>\n<p></p>\n<p><strong>C. Estrategia de Retroalimentación Formativa (Feedback)</strong><br />Para cumplir con el carácter orientador y formativo de la LOMLOE, los resultados del proyecto no se limitan a una calificación numérica. Al finalizar el Marketplace, el docente aplicará con cada equipo el modelo de la \"Escalera de la Retroalimentación\" de Daniel Wilson:</p>\n<ol>\n<li>Clarificar: El docente plantea preguntas abiertas para comprender el porqué de sus elecciones científicas (\"¿Qué os llevó a deducir que este icono representaba la respiración branquial de vuestra especie?\").</li>\n<li>Valorar: Se destacan de forma explícita los puntos fuertes y los logros del diseño (\"La estructura visual en Canva es impecable y la integración del visor 3D de Sketchfab enriquece muchísimo el producto\").</li>\n<li>Expresar Inquietudes: Se siembran dudas constructivas no punitivas para fomentar el pensamiento crítico (\"Me preocupa que en el eslogan en inglés hayáis recurrido a una traducción literal de internet y la frase haya perdido el sentido de conservación, ¿cómo podríais reformularlo usando los verbos del glosario inicial?\").</li>\n<li>Ofrecer Sugerencias: El docente marca pautas concretas, realistas y alcanzables de cara a futuros proyectos (\"Para vuestra próxima producción digital, reducid la densidad del texto e introducid tablas comparativas para agilizar la lectura del usuario\").</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mqaow2w7-bzzm3yck1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mqaow2w7-bzzm3yck1</odePageId>
+      <odeBlockId>block-mqapls5f-45xt4qp4i</odeBlockId>
+      <blockName>Autoría y descarga</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqaow2w7-bzzm3yck1</odePageId>
+          <odeBlockId>block-mqapls5f-45xt4qp4i</odeBlockId>
+          <odeIdeviceId>idevice-1781255619265-bujqbh3qw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autoría: Esperanza Lara Lendínez<br />Licencia: Creative Commons Reconocimiento-CompartirIgual (CC BY-SA).<br />Descripción: Situación de Aprendizaje para 1º ESO sobre Vertebrados y Conservación en Andalucía.<br />Descarga del Editable: https://github.com/elarlen404/zoo-interactivo-5un825dx1e227eid/blob/main/SdA_El_Zoo_del_Futuro.elp?raw=true</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781255619265-bujqbh3qw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoría: Esperanza Lara Lendínez<br />Licencia: Creative Commons Reconocimiento-CompartirIgual (CC BY-SA).<br />Descripción: Situación de Aprendizaje para 1º ESO sobre Vertebrados y Conservación en Andalucía.<br />Descarga del Editable: https://github.com/elarlen404/zoo-interactivo-5un825dx1e227eid/blob/main/SdA_El_Zoo_del_Futuro.elp?raw=true</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
